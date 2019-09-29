@@ -1,0 +1,6 @@
+CREATE TABLE person(
+firstName varchar(30),
+lastName varchar(30),
+age int,
+id int NOT NULL,
+PRIMARY KEY(id));
